@@ -1,0 +1,360 @@
+{
+   "time" : "0.548",
+   "content" : {
+      "by_year" : [
+         {
+            "International Business Machines Corp" : {
+               "country" : "US",
+               "stats" : [
+                  {
+                     "year" : 2010,
+                     "count" : 5896
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 6180
+                  },
+                  {
+                     "count" : 6478,
+                     "year" : 2012
+                  },
+                  {
+                     "count" : 6810,
+                     "year" : 2013
+                  },
+                  {
+                     "year" : 2014,
+                     "count" : 7534
+                  },
+                  {
+                     "count" : 5155,
+                     "year" : 2015
+                  }
+               ]
+            }
+         },
+         {
+            "Samsung Electronics Co Ltd" : {
+               "stats" : [
+                  {
+                     "count" : 4600,
+                     "year" : 2010
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 4918
+                  },
+                  {
+                     "count" : 5082,
+                     "year" : 2012
+                  },
+                  {
+                     "year" : 2013,
+                     "count" : 4676
+                  },
+                  {
+                     "year" : 2014,
+                     "count" : 4952
+                  },
+                  {
+                     "year" : 2015,
+                     "count" : 3198
+                  }
+               ],
+               "country" : "US"
+            }
+         },
+         {
+            "Canon KK" : {
+               "stats" : [
+                  {
+                     "year" : 2010,
+                     "count" : 2552
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 2821
+                  },
+                  {
+                     "year" : 2012,
+                     "count" : 3174
+                  },
+                  {
+                     "year" : 2013,
+                     "count" : 3825
+                  },
+                  {
+                     "count" : 4055,
+                     "year" : 2014
+                  },
+                  {
+                     "year" : 2015,
+                     "count" : 2840
+                  }
+               ],
+               "country" : "US"
+            }
+         },
+         {
+            "Sony Corp" : {
+               "stats" : [
+                  {
+                     "count" : 2150,
+                     "year" : 2010
+                  },
+                  {
+                     "count" : 2286,
+                     "year" : 2011
+                  },
+                  {
+                     "year" : 2012,
+                     "count" : 3032
+                  },
+                  {
+                     "year" : 2013,
+                     "count" : 3098
+                  },
+                  {
+                     "year" : 2014,
+                     "count" : 3223
+                  },
+                  {
+                     "year" : 2015,
+                     "count" : 1638
+                  }
+               ],
+               "country" : "US"
+            }
+         },
+         {
+            "Microsoft Corp" : {
+               "country" : "US",
+               "stats" : [
+                  {
+                     "count" : 3090,
+                     "year" : 2010
+                  },
+                  {
+                     "count" : 2311,
+                     "year" : 2011
+                  },
+                  {
+                     "year" : 2012,
+                     "count" : 2613
+                  },
+                  {
+                     "count" : 2660,
+                     "year" : 2013
+                  },
+                  {
+                     "count" : 2829,
+                     "year" : 2014
+                  },
+                  {
+                     "count" : 447,
+                     "year" : 2015
+                  }
+               ]
+            }
+         },
+         {
+            "Toshiba Corp" : {
+               "stats" : [
+                  {
+                     "year" : 2010,
+                     "count" : 2246
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 2483
+                  },
+                  {
+                     "count" : 2448,
+                     "year" : 2012
+                  },
+                  {
+                     "year" : 2013,
+                     "count" : 2416
+                  },
+                  {
+                     "count" : 2608,
+                     "year" : 2014
+                  },
+                  {
+                     "year" : 2015,
+                     "count" : 1649
+                  }
+               ],
+               "country" : "US"
+            }
+         },
+         {
+            "Panasonic Corp" : {
+               "stats" : [
+                  {
+                     "year" : 2010,
+                     "count" : 2483
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 2559
+                  },
+                  {
+                     "year" : 2012,
+                     "count" : 2769
+                  },
+                  {
+                     "year" : 2013,
+                     "count" : 2601
+                  },
+                  {
+                     "count" : 2094,
+                     "year" : 2014
+                  },
+                  {
+                     "year" : 2015,
+                     "count" : 239
+                  }
+               ],
+               "country" : "US"
+            }
+         },
+         {
+            "LG Electronics Inc" : {
+               "country" : "US",
+               "stats" : [
+                  {
+                     "count" : 1490,
+                     "year" : 2010
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 1411
+                  },
+                  {
+                     "year" : 2012,
+                     "count" : 1624
+                  },
+                  {
+                     "count" : 1947,
+                     "year" : 2013
+                  },
+                  {
+                     "year" : 2014,
+                     "count" : 2122
+                  },
+                  {
+                     "count" : 1404,
+                     "year" : 2015
+                  }
+               ]
+            }
+         },
+         {
+            "Hon Hai Precision Industry Co Ltd" : {
+               "country" : "US",
+               "stats" : [
+                  {
+                     "year" : 2010,
+                     "count" : 1438
+                  },
+                  {
+                     "year" : 2011,
+                     "count" : 1513
+                  },
+                  {
+                     "year" : 2012,
+                     "count" : 2013
+                  },
+                  {
+                     "count" : 2279,
+                     "year" : 2013
+                  },
+                  {
+                     "count" : 1537,
+                     "year" : 2014
+                  },
+                  {
+                     "year" : 2015,
+                     "count" : 707
+                  }
+               ]
+            }
+         },
+         {
+            "Qualcomm Inc" : {
+               "country" : "US",
+               "stats" : [
+                  {
+                     "year" : 2010,
+                     "count" : 657
+                  },
+                  {
+                     "count" : 923,
+                     "year" : 2011
+                  },
+                  {
+                     "count" : 1293,
+                     "year" : 2012
+                  },
+                  {
+                     "year" : 2013,
+                     "count" : 2105
+                  },
+                  {
+                     "year" : 2014,
+                     "count" : 2586
+                  },
+                  {
+                     "count" : 1756,
+                     "year" : 2015
+                  }
+               ]
+            }
+         }
+      ],
+      "2015" : [
+         {
+            "name" : "International Business Machines Corp",
+            "count" : 5155
+         },
+         {
+            "count" : 3198,
+            "name" : "Samsung Electronics Co Ltd"
+         },
+         {
+            "count" : 2840,
+            "name" : "Canon KK"
+         },
+         {
+            "name" : "Google Inc",
+            "count" : 1780
+         },
+         {
+            "name" : "Qualcomm Inc",
+            "count" : 1756
+         },
+         {
+            "name" : "Toshiba Corp",
+            "count" : 1649
+         },
+         {
+            "name" : "Sony Corp",
+            "count" : 1638
+         },
+         {
+            "count" : 1404,
+            "name" : "LG Electronics Inc"
+         },
+         {
+            "count" : 1284,
+            "name" : "Apple Inc"
+         },
+         {
+            "count" : 1214,
+            "name" : "Intel Corp"
+         }
+      ]
+   },
+   "status" : "success"
+}
